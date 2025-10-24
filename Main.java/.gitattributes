@@ -1,0 +1,16 @@
+# Todos los archivos Java se consideran texto
+*.java text
+
+# Archivos de configuración y construcción
+*.xml text
+*.properties text
+*.gradle text
+*.pom text
+
+# Archivos de documentación
+*.md text
+*.txt text
+
+# Otros archivos de código y scripts
+*.sh text
+*.bat text
