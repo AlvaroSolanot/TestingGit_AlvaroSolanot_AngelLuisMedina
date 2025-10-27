@@ -1,0 +1,17 @@
+# Archivos compilados
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Carpetas de compilación
+/build/
+/target/
+
+# Imágenes y música
+*.jpg
+*.png
+*.mp3
+*.wav
